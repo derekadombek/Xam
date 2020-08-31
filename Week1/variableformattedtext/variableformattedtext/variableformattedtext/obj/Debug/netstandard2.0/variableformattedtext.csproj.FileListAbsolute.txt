@@ -1,0 +1,13 @@
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\obj\Debug\netstandard2.0\variableformattedtext.csprojAssemblyReference.cache
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\obj\Debug\netstandard2.0\variableformattedtext.AssemblyInfoInputs.cache
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\obj\Debug\netstandard2.0\variableformattedtext.AssemblyInfo.cs
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\obj\Debug\netstandard2.0\variableformattedtext.csproj.CoreCompileInputs.cache
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\bin\Debug\netstandard2.0\variableformattedtext.deps.json
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\bin\Debug\netstandard2.0\variableformattedtext.dll
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\bin\Debug\netstandard2.0\ref\variableformattedtext.dll
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\bin\Debug\netstandard2.0\variableformattedtext.pdb
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\obj\Debug\netstandard2.0\variableformattedtext.dll
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\obj\Debug\netstandard2.0\ref\variableformattedtext.dll
+C:\Xam\Week1\variableformattedtext\variableformattedtext\variableformattedtext\obj\Debug\netstandard2.0\variableformattedtext.pdb

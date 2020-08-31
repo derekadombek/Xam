@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j++geBzl2lVg1N4g5VYrfEG46hw8882Z0XhIeoNCTBsXXmwQo3FufUWUvpSxTMaaaCwQW5T3hfK4bfGJGZQwEA==",
+  "success": true,
+  "projectFilePath": "/Users/derekdombek/Projects/Xam/Week1/PlatformVisuals/PlatformVisuals/PlatformVisuals/PlatformVisuals.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}

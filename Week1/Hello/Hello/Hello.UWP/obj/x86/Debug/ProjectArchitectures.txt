@@ -1,0 +1,1 @@
+C:\Xam\Week1\Hello\Hello\Hello.UWP\Hello.UWP.csproj;x86

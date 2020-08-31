@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5qXNGBmwkKm76eUU+JMKMExzHd7SU8MEfddTdfmwlROAtUxi9OHFNxxPYkveuy51G6WVBCU+wM103XOJvbj7zQ==",
+  "success": true,
+  "projectFilePath": "/Users/derekdombek/Projects/Xam/Week1/GreetingsRandy/GreetingsRandy/GreetingsRandy.iOS/GreetingsRandy.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/derekdombek/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

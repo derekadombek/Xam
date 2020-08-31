@@ -1,0 +1,1 @@
+C:\Xam\Week1\VariableFormattedParagraph\VariableFormattedParagraph\VariableFormattedParagraph.UWP\VariableFormattedParagraph.UWP.csproj;x86

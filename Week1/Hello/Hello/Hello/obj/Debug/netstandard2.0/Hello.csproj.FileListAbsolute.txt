@@ -1,0 +1,14 @@
+C:\Xam\Week1\Hello\Hello\Hello\obj\Debug\netstandard2.0\Hello.csprojAssemblyReference.cache
+C:\Xam\Week1\Hello\Hello\Hello\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xam\Week1\Hello\Hello\Hello\obj\Debug\netstandard2.0\homepage.xaml.g.cs
+C:\Xam\Week1\Hello\Hello\Hello\obj\Debug\netstandard2.0\Hello.AssemblyInfoInputs.cache
+C:\Xam\Week1\Hello\Hello\Hello\obj\Debug\netstandard2.0\Hello.AssemblyInfo.cs
+C:\Xam\Week1\Hello\Hello\Hello\obj\Debug\netstandard2.0\Hello.csproj.CoreCompileInputs.cache
+C:\Xam\Week1\Hello\Hello\Hello\bin\Debug\netstandard2.0\Hello.deps.json
+C:\Xam\Week1\Hello\Hello\Hello\bin\Debug\netstandard2.0\Hello.dll
+C:\Xam\Week1\Hello\Hello\Hello\bin\Debug\netstandard2.0\ref\Hello.dll
+C:\Xam\Week1\Hello\Hello\Hello\bin\Debug\netstandard2.0\Hello.pdb
+C:\Xam\Week1\Hello\Hello\Hello\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xam\Week1\Hello\Hello\Hello\obj\Debug\netstandard2.0\Hello.dll
+C:\Xam\Week1\Hello\Hello\Hello\obj\Debug\netstandard2.0\ref\Hello.dll
+C:\Xam\Week1\Hello\Hello\Hello\obj\Debug\netstandard2.0\Hello.pdb

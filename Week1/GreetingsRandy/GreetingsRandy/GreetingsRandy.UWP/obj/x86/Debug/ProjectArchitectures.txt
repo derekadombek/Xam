@@ -1,0 +1,1 @@
+C:\Xam\Week1\GreetingsRandy\GreetingsRandy\GreetingsRandy.UWP\GreetingsRandy.UWP.csproj;x86

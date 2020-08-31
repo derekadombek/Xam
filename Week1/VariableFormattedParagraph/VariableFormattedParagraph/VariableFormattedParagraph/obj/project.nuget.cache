@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QGqQWMbmC7gMDT9zf95/V6m6/D4McHUeYFd+3SglCWurKD2zhgaVaRF/2z8mc9Hni5W2QtIwvovY38cGAcsJWw==",
+  "success": true,
+  "projectFilePath": "C:\\Xam\\Week1\\VariableFormattedParagraph\\VariableFormattedParagraph\\VariableFormattedParagraph\\VariableFormattedParagraph.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ddombek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ddombek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ddombek\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qlxGr2Gw0RfCYIemCJv1KWzHvcg6iE6k1g8Y3lKf4GTvPjkud8qm6ztrOR6dN8gdZ6Nn59xXleoH1v4NQPDeRQ==",
+  "success": true,
+  "projectFilePath": "/Users/derekdombek/Projects/Xam/Week1/Baskervilles/Baskervilles/Baskervilles/Baskervilles.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

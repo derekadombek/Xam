@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A7AA99AF-C8CA-4B9C-81D3-BA260A8CC948}|Default">
+  <MonoDevelop.Ide.ItemProperties.Greetings.Android PreferredExecutionTarget="Android.9LRW4SHUAAJZHI79" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Greetings" expanded="True">
+            <Node name="Greetings.Android" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

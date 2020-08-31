@@ -1,0 +1,1 @@
+C:\Xam\Week1\Greetings\Greetings\Greetings.UWP\Greetings.UWP.csproj;x86

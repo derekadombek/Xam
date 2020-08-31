@@ -1,0 +1,1 @@
+C:\Xam\Week1\PlatformVisuals\PlatformVisuals\PlatformVisuals.UWP\PlatformVisuals.UWP.csproj;x86

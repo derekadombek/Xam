@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "qfz1bjwBZkKqwB4SXYESZNN7NC4FCVxTxngaiBn4Ztzhnp7YfRn5Yxjx0TVMnVzzjNbHzj9fGhj7P1yULC2VAA==",
+  "success": true,
+  "projectFilePath": "/Users/derekdombek/Projects/Xam/Week1/PlatformVisuals/PlatformVisuals/PlatformVisuals.Droid/PlatformVisuals.Droid.csproj",
+  "expectedPackageFiles": [
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.animated.vector.drawable/25.4.0.2/xamarin.android.support.animated.vector.drawable.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.annotations/25.4.0.2/xamarin.android.support.annotations.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.compat/25.4.0.2/xamarin.android.support.compat.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.core.ui/25.4.0.2/xamarin.android.support.core.ui.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.core.utils/25.4.0.2/xamarin.android.support.core.utils.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.design/25.4.0.2/xamarin.android.support.design.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.fragment/25.4.0.2/xamarin.android.support.fragment.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.media.compat/25.4.0.2/xamarin.android.support.media.compat.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.transition/25.4.0.2/xamarin.android.support.transition.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.v4/25.4.0.2/xamarin.android.support.v4.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.v7.appcompat/25.4.0.2/xamarin.android.support.v7.appcompat.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.v7.cardview/25.4.0.2/xamarin.android.support.v7.cardview.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.v7.mediarouter/25.4.0.2/xamarin.android.support.v7.mediarouter.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.v7.palette/25.4.0.2/xamarin.android.support.v7.palette.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.v7.recyclerview/25.4.0.2/xamarin.android.support.v7.recyclerview.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.android.support.vector.drawable/25.4.0.2/xamarin.android.support.vector.drawable.25.4.0.2.nupkg.sha512",
+    "/Users/derekdombek/.nuget/packages/xamarin.forms/3.1.0.637273/xamarin.forms.3.1.0.637273.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1269 to 3.1.0.637273. Reference the package directly from the project to select a different version. \n PlatformVisuals.Droid -> PlatformVisuals -> Xamarin.Forms (>= 4.8.0.1269) \n PlatformVisuals.Droid -> Xamarin.Forms (>= 3.1.0.637273)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    }
+  ]
+}

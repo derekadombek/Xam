@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "FqDyfr+q8VaQGP364THzbz1ZCWPwZEsae3+dVcHwKPnLuIRjMxWgxTkgBf9c5oHSrJADeKb2Uv12a4eR3jJSRw==",
+  "success": true,
+  "projectFilePath": "/Users/derekdombek/Projects/Xam/Week1/PlatformVisuals/PlatformVisuals/PlatformVisuals.iOS/PlatformVisuals.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/derekdombek/.nuget/packages/xamarin.forms/3.1.0.637273/xamarin.forms.3.1.0.637273.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1269 to 3.1.0.637273. Reference the package directly from the project to select a different version. \n PlatformVisualsiOS -> PlatformVisuals -> Xamarin.Forms (>= 4.8.0.1269) \n PlatformVisualsiOS -> Xamarin.Forms (>= 3.1.0.637273)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

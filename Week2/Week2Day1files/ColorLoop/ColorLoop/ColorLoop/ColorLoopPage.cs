@@ -35,9 +35,9 @@ namespace ColorLoop
                 stackLayout.Children.Add(
                     new Label
                     {
-                        Text = color.value,
-                        TextColor = color.name,
-                        FontSize = Device.GetNamedSize(NamedSize.Value, typeof(Color))
+                        Text = color.name,
+                        TextColor = color.value,
+                        FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Color))
                     });
             }
 

@@ -7,7 +7,7 @@ namespace ColorList
     {
         public ColorListPage()
         {
-            Padding = new Thickness(5, Device.OnPlatform( 20, 5, 5), 5, 5);
+            Padding = new Thickness(5, Device.RuntimePlatform == Device.iOS ? 20 : 5, 5, 5);
             double fontSize = Device.GetNamedSize(NamedSize.Large, typeof(StackLayout));
             Content = new StackLayout
             {
@@ -16,7 +16,7 @@ namespace ColorList
                     new Label
                     {
                         Text = "White",
-                        TextColor = NamedSize.Large,
+                        TextColor = Color.White,
                         FontSize = fontSize
                     },
                     new Label
@@ -27,7 +27,7 @@ namespace ColorList
                     },
                     new Label
                     {
-                        Text = Color.Gray,
+                        Text = "Gray",
                         TextColor = Color.Gray,
                         FontSize = fontSize
                     },

@@ -22,7 +22,7 @@ namespace BlackCat
             };
 
             Assembly assembly = GetType().GetTypeInfo().Assembly;
-            string resource = "blackcat.Texts.blackcat.txt";
+            string resource = "BlackCat.Texts.blackcat.txt";
 
             using (Stream stream = assembly.GetManifestResourceStream(resource))
             {

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 using Xamarin.Forms;
 
 namespace MonkeyTapWithSound
@@ -8,12 +9,11 @@ namespace MonkeyTapWithSound
         const int samplingRate = 22050;
 
         // Hard-coded for monaural, 16-bit-per-sample PCM
-        public static void PlaySound(double frequency = 400, int duration = 250)
+        public static byte[] MakeBuffer(double frequency = 400, int duration = 250)
         {
             short[] shortBuffer = new short[samplingRate * duration / 1000];
             double angleIncrement = frequency / samplingRate;
             double angle = 0.0;
-
             for (int i = 0; i < shortBuffer.Length; i++)
             {
                 // Define triangel wave
@@ -42,9 +42,13 @@ namespace MonkeyTapWithSound
 
             // For project, return the byteBuffer[] and end the method.
             // Then start the new method with the input parameter byteBuffer[]
-
+            return byteBuffer;
+        }
+        public static void PlayBufferSound(byte[] byteBuffer)
+        {
             DependencyService.Get<IPlatformSoundPlayer>().PlaySound(samplingRate, byteBuffer);
         }
     }
 }
+
 

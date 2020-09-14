@@ -1,4 +1,6 @@
-﻿namespace MonkeyTapWithSound
+﻿using System.Collections.Generic;
+
+namespace MonkeyTapWithSound
 {
     class MonkeyTapWithSoundPage : MonkeyTap.MonkeyTapPage
     {
@@ -6,16 +8,33 @@
 
         // Diminished 7th in 1st inversion: C, Eb, F#, A
         double[] frequencies = { 523.25, 622.25, 739.99, 880 };
+        double endFrequency = 65.4;
+
+        List<byte[]> buffers;
+        byte[] endBuffer;
+
+        public MonkeyTapWithSoundPage()
+        {
+            buffers = new List<byte[]>();
+            for(int i=0; i < frequencies.Length; i++)
+            {
+                byte[] buffer = SoundPlayer.MakeBuffer(frequencies[i], flashDuration);
+                buffers.Add(buffer);
+            }
+            endBuffer = SoundPlayer.MakeBuffer(endFrequency, errorDuration);
+            
+        }
+
 
         protected override void FlashBoxView(int index)
         {
-            SoundPlayer.PlaySound(frequencies[index], flashDuration);
+            SoundPlayer.PlayBufferSound(buffers[index]);
             base.FlashBoxView(index);
         }
 
         protected override void EndGame()
         {
-            SoundPlayer.PlaySound(65.4, errorDuration);
+            SoundPlayer.PlayBufferSound(endBuffer);
             base.EndGame();
         }
     }

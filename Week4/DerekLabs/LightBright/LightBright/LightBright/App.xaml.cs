@@ -10,7 +10,7 @@ namespace LightBright
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new LightBrightPage();
         }
 
         protected override void OnStart()

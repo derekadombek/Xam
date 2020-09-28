@@ -13,11 +13,23 @@ namespace DataTransfer5
 		{
 			Xamarin.FormsBook.Toolkit.Toolkit.Init();
 
-			// Instantiate AppData and set property.
-			AppData = new AppData();
+			if (Properties.ContainsKey("appData"))
+			{
+				AppData = AppData.Deserialize((string)Properties["appData"]);
+			}
+			else
+			{
+				AppData = new AppData();
+			}
+			Page homePage = new DataTransfer5HomePage();
 
 			// Go to the home page.
-			MainPage = new NavigationPage(new DataTransfer5HomePage());
+			MainPage = new NavigationPage(homePage);
+			if (Properties.ContainsKey("isInfoPageActive") &&
+				(bool)Properties["isInfoPageActive"])
+			{
+				homePage.Navigation.PushAsync(new DataTransfer5InfoPage(), false);
+			}
 		}
 
 		public AppData AppData { private set; get; }
@@ -30,6 +42,10 @@ namespace DataTransfer5
 		protected override void OnSleep()
 		{
 			// Handle when your app sleeps
+			Properties["appData"] = AppData.Serialize();
+
+			Properties["isInfoPageActive"] =
+				MainPage.Navigation.NavigationStack.Last() is DataTransfer5InfoPage;
 		}
 
 		protected override void OnResume()
